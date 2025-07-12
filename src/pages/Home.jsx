@@ -67,7 +67,6 @@ function Home() {
                   <li>👥 <span className="font-medium">Capacity:</span> 100 Persons</li>
                   <li>🔊 <span className="font-medium">Speakers:</span> Available</li>
                   <li>📽️ <span className="font-medium">Projector:</span> Available</li>
-                  <li>❄️ <span className="font-medium">Air Conditioner:</span> Available</li>
                   <li>🚗 <span className="font-medium">Car Parking:</span> Available</li>
                 </ul>
               </Link>
