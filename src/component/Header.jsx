@@ -13,7 +13,7 @@ function Header() {
   ];
 
   return (
-    <header className="bg-white shadow-md sticky top-0 z-50 w-full pr-15 pl-10">
+    <header className="bg-white shadow-md sticky top-0 z-50 w-full pr-0 pl-0">
       <div className="container mx-auto flex justify-between items-center px-4 py-4 md:py-3">
         {/* Logo Section */}
         <Link
@@ -21,7 +21,7 @@ function Header() {
           className="flex items-center space-x-3 transition-transform hover:scale-105"
         >
           <img
-            src="/Beige_Minimalist_Typography_Initials_Circle_Personal_Logo_Design-removebg-preview.png"
+            src="/RMJ_Logo.png"
             alt="RMJ HALL Logo"
             className="h-16 w-16 md:h-20 md:w-20 rounded-xl object-cover"
           />
