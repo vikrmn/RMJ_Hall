@@ -1,12 +1,12 @@
 import React, { useState } from "react";
 
 const images = [
-  "/public/real_images/IMG-20250709-WA0001.jpg",
-  "/public/real_images/IMG-20250709-WA0002.jpg",
-  "/public/real_images/IMG-20250709-WA0003.jpg",
-  "/public/real_images/IMG-20250709-WA0004.jpg",
-  "/public/real_images/IMG-20250709-WA0005.jpg",
-  "/public/real_images/banquet_hall_in_coimbatore_3.jpg",
+  "/real_images/IMG-20250709-WA0001.jpg",
+  "/real_images/IMG-20250709-WA0002.jpg",
+  "/real_images/IMG-20250709-WA0003.jpg",
+  "/real_images/IMG-20250709-WA0004.jpg",
+  "/real_images/IMG-20250709-WA0005.jpg",
+  "/real_images/banquet_hall_in_coimbatore_3.jpg",
 ];
 
 function Gallery() {
