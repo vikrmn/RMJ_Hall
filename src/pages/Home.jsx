@@ -6,10 +6,10 @@ import { Link } from "react-router-dom";
 
 
 const tnImages = [
-  { src: "/public/1_0CyeRG3FH6cTjQNBU7dPzg.jpg", label: "For Marriage Hall" },
-  { src: "/public/hall-capacity-1170x658.jpg", label: "For Conference Hall" },
-  { src: "/public/wedding-venue-sterling-kodai-valley-banquet-hall-4_15_371906-162988849633205.jpeg", label: "For Corporate Hall" },
-  { src: "/public/1721733180_595x400.webp", label: "For Farewell Party Hall" },
+  { src: "/1_0CyeRG3FH6cTjQNBU7dPzg.jpg", label: "For Marriage Hall" },
+  { src: "/hall-capacity-1170x658.jpg", label: "For Conference Hall" },
+  { src: "/wedding-venue-sterling-kodai-valley-banquet-hall-4_15_371906-162988849633205.jpeg", label: "For Corporate Hall" },
+  { src: "/1721733180_595x400.webp", label: "For Farewell Party Hall" },
 ];
 
 const services = [
