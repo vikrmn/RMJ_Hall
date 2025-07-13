@@ -21,7 +21,7 @@ function Header() {
           className="flex items-center space-x-3 transition-transform hover:scale-105"
         >
           <img
-            src="/public/RMJ-LOGO_GIF.gif"
+            src="/RMJ-LOGO_GIF.gif"
             alt="RMJ HALL Logo"
             className="h-16 w-16 md:h-20 md:w-20 rounded-x3 object-cover"
           />
