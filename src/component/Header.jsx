@@ -21,13 +21,13 @@ function Header() {
           className="flex items-center space-x-3 transition-transform hover:scale-105"
         >
           <img
-            src="/RMJ_Logo.png"
+            src="/public/RMJ-LOGO_GIF.gif"
             alt="RMJ HALL Logo"
-            className="h-16 w-16 md:h-20 md:w-20 rounded-xl object-cover"
+            className="h-16 w-16 md:h-20 md:w-20 rounded-x3 object-cover"
           />
           <div className="flex flex-col">
             <span
-              className="text-2xl md:text-3xl font-bold font-serif tracking-wide"
+              className="text-2xl md:text-3xl font-bold font-sans	 tracking-wide"
               style={{ color: "#3B3B1A" }}
             >
               RMJ HALL
