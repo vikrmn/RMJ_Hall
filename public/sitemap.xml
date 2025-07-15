@@ -6,11 +6,24 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
 <url>
-  <loc>https://rmj-hall.vercel.app/</loc>
-  <lastmod>2025-07-13T04:19:43+00:00</lastmod>
-</url>
-
-
+    <loc>https://rmj-hall.vercel.app/</loc>
+    <lastmod>2025-07-13</lastmod>
+  </url>
+  <url>
+    <loc>https://rmj-hall.vercel.app/gallery</loc>
+    <lastmod>2025-07-13</lastmod>
+  </url>
+  <url>
+    <loc>https://rmj-hall.vercel.app/contact</loc>
+    <lastmod>2025-07-13</lastmod>
+  </url>
+  <url>
+    <loc>https://rmj-hall.vercel.app/hall/a</loc>
+    <lastmod>2025-07-13</lastmod>
+  </url>
+  <url>
+    <loc>https://rmj-hall.vercel.app/hall/b</loc>
+    <lastmod>2025-07-13</lastmod>
+  </url>
 </urlset>
