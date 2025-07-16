@@ -5,11 +5,12 @@ import { CheckCircle } from "lucide-react";
 import { Link } from "react-router-dom";
 
 
-const tnImages = [
-  { src: "/1_0CyeRG3FH6cTjQNBU7dPzg.jpg", label: "For Marriage Hall" },
-  { src: "/hall-capacity-1170x658.jpg", label: "For Conference Hall" },
-  { src: "/wedding-venue-sterling-kodai-valley-banquet-hall-4_15_371906-162988849633205.jpeg", label: "For Corporate Hall" },
-  { src: "/1721733180_595x400.webp", label: "For Farewell Party Hall" },
+const Images = [
+  { src: "/hall-A/IMG-20250713-WA0010.jpg", label: "For Marriage Hall" },
+  { src: "/hall-A/IMG-20250713-WA0012.jpg", label: "For Conference Hall" },
+  { src: "hall-A/IMG-20250713-WA0017.jpg", label: "For Conference Hall" },
+  { src: "/hall-B/Screenshot 2025-07-15 185052_cpy.png", label: "For Farewell Party Hall" },
+  { src: "/hall-B/IMG-20250714-WA0017.jpg", label: "For Corporate Hall" },
 ];
 
 const services = [
@@ -35,7 +36,7 @@ function Home() {
             showStatus={false}
             className="rounded-lg overflow-hidden shadow-lg"
           >
-            {tnImages.map((img, idx) => (
+            {Images.map((img, idx) => (
               <div key={idx} className="relative">
                 <img
                   src={img.src}
