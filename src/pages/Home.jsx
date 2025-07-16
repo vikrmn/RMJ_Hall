@@ -6,11 +6,11 @@ import { Link } from "react-router-dom";
 
 
 const Images = [
-  { src: "/hall-A/IMG-20250713-WA0010.jpg", label: "For Marriage Hall" },
-  { src: "/hall-A/IMG-20250713-WA0012.jpg", label: "For Conference Hall" },
-  { src: "hall-A/IMG-20250713-WA0017.jpg", label: "For Conference Hall" },
-  { src: "/hall-B/carousel_image.png", label: "For Farewell Party Hall" },
-  { src: "/hall-B/IMG-20250714-WA0017.jpg", label: "For Corporate Hall" },
+  { src: "/hall-A/IMG-20250713-WA0010.jpg", label: "" },
+  { src: "/hall-A/IMG-20250713-WA0012.jpg", label: "" },
+  { src: "hall-A/IMG-20250713-WA0017.jpg", label: "" },
+  { src: "/hall-B/carousel_image.png", label: "" },
+  { src: "/hall-B/IMG-20250714-WA0017.jpg", label: "" },
 ];
 
 const services = [
