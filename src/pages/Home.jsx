@@ -44,9 +44,7 @@ function Home() {
                   className="object-cover w-full h-[450px]"
                 />
                 {/* Top-left label */}
-                <div className="absolute top-4 left-4 bg-black bg-opacity-50 text-white px-3 py-1 rounded text-sm md:text-base font-medium shadow">
-                  {img.label}
-                </div>
+                
               </div>
             ))}
           </Carousel>
