@@ -9,7 +9,7 @@ const Images = [
   { src: "/hall-A/IMG-20250713-WA0010.jpg", label: "For Marriage Hall" },
   { src: "/hall-A/IMG-20250713-WA0012.jpg", label: "For Conference Hall" },
   { src: "hall-A/IMG-20250713-WA0017.jpg", label: "For Conference Hall" },
-  { src: "/hall-B/Screenshot 2025-07-15 185052_cpy.png", label: "For Farewell Party Hall" },
+  { src: "/hall-B/carousel_image.png", label: "For Farewell Party Hall" },
   { src: "/hall-B/IMG-20250714-WA0017.jpg", label: "For Corporate Hall" },
 ];
 
