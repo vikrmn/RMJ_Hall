@@ -1,29 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-<url>
-    <loc>https://rmj-hall.vercel.app/</loc>
-    <lastmod>2025-07-13</lastmod>
-  </url>
+  <!-- Created for https://www.rmjhall.com -->
+
   <url>
-    <loc>https://rmj-hall.vercel.app/gallery</loc>
+    <loc>https://www.rmjhall.com/</loc>
     <lastmod>2025-07-13</lastmod>
   </url>
+
   <url>
-    <loc>https://rmj-hall.vercel.app/contact</loc>
+    <loc>https://www.rmjhall.com/gallery</loc>
     <lastmod>2025-07-13</lastmod>
   </url>
+
   <url>
-    <loc>https://rmj-hall.vercel.app/hall/a</loc>
+    <loc>https://www.rmjhall.com/contact</loc>
     <lastmod>2025-07-13</lastmod>
   </url>
+
   <url>
-    <loc>https://rmj-hall.vercel.app/hall/b</loc>
+    <loc>https://www.rmjhall.com/hall/a</loc>
     <lastmod>2025-07-13</lastmod>
   </url>
+
+  <url>
+    <loc>https://www.rmjhall.com/hall/b</loc>
+    <lastmod>2025-07-13</lastmod>
+  </url>
+
 </urlset>
