@@ -1,4 +1,11 @@
 {
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.rmjhall.com/$1",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/sitemap.xml",
@@ -9,8 +16,5 @@
         }
       ]
     }
-  ],
-  "rewrites": [
-    { "source": "/(.*)", "destination": "https://www.rmjhall.com/$1", "permanent": true }
   ]
 }
