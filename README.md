@@ -1,12 +1,28 @@
-# React + Vite
+# 🎉 RMJ Hall – Event Hall Booking Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the official website for **RMJ Hall**, a venue for conferences, celebrations, and events in Coimbatore, Tamil Nadu. This project showcases a responsive, modern, and easy-to-navigate booking site built using **React** and hosted on **Vercel** with a custom domain.
 
-Currently, two official plugins are available:
+🌐 **Live Site**: [https://www.rmjhall.com](https://www.rmjhall.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React.js  
+- **Styling**: Tailwind CSS  
+- **Deployment**: Vercel  
+- **Domain**: Namecheap (`rmjhall.com`)  
+- **SEO & Indexing**: Google Search Console + Sitemap  
+- **Security**: HTTPS with automatic SSL (Let's Encrypt)
+
+---
+
+## 🚀 Features
+
+- 🔒 Secured with HTTPS  
+- 🌐 Custom domain: `rmjhall.com`  
+- 📱 Fully responsive (mobile + desktop)  
+- 📸 Gallery of hall images  
+- 📍 Location map (optional Google Maps)  
+- 📞 WhatsApp floating contact button  
+- 🗓️ Booking availability section (static or dynamic)
